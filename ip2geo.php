@@ -21,7 +21,7 @@
  }
  
  
-require_once('./geoplugin/geoplugin.class.php');
+require_once('geoplugin.class.php');
 $geoplugin->currency = 'EUR';
 $geoplugin = new geoPlugin();
 
